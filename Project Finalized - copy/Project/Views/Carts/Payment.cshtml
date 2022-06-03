@@ -1,0 +1,46 @@
+﻿@using Newtonsoft.Json
+@model Project.Models.Cart
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Details";
+    var totalPrice = 0;
+}
+
+<h1>Cart Details</h1>
+
+            @if (Model != null)
+            {
+                @foreach (var item in Model.Products)
+                {
+
+                    totalPrice += @item.Price;
+
+                }
+
+            }
+
+
+
+@using Microsoft.Extensions.Options
+@inject IOptions<StripeSettings> Stripe
+
+<form action="/Home/Charge" method="POST">
+  <article>
+    <label>Total Price: $ @totalPrice</label>
+  </article>
+  <script src="//checkout.stripe.com/v2/checkout.js"
+          class="stripe-button"
+          data-key="pk_test_51KfxKmBfomHHapStpctm6cOPvs770q0tGo4f04GVg3Uqy7gkxwQauWR6alQrIT3LhNrFlajfOF34yyrKbPpXUZhk002hN0O74p"
+  
+          data-locale="auto"
+          data-description="Sample Charge"
+          data-amount="@totalPrice">
+  </script>
+</form>
+
+    <a href="/Home/Menu">Order More</a>
+
+              <a asp-controller="Carts" asp-action="Menu" class="order-online">
+                Submit Order
+              </a>

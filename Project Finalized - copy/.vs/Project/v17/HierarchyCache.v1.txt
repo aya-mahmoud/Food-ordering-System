@@ -1,0 +1,582 @@
+﻿++Solution 'Project' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Project.sln
+++Project
+i:{00000000-0000-0000-0000-000000000000}:Project
+++Connected Services 
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1239
+++Dependencies
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1238
+++Properties
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\properties\
+++wwwroot
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\
+++css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\css\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\images\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\
+++3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\images\3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\3b3493af-fad5-412c-8408-baa887cfdb28_page-1_img10.jpg
+++3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\images\3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\3f443249-217c-4683-a671-080b5421939d_page-1_img10.jpg
+++9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\images\9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\9e8f958f-5658-4e2c-9e10-4cec3e21f2c3_page-1_img11.jpg
+++js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\js\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\js\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\
+++template
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\
+++fonts
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\fonts\
+++favicon.ico
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\favicon.ico
+++Areas
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\
+++Controllers
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\
+++CartsController.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\cartscontroller.cs
+++CategoriesController.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\categoriescontroller.cs
+++HomeController.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\homecontroller.cs
+++OrdersController.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\orderscontroller.cs
+++ProductsController.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\productscontroller.cs
+++UsersController.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\controllers\userscontroller.cs
+++Migrations
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\
+++20220318174306_init.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220318174306_init.cs
+++20220319080516_first.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220319080516_first.cs
+++20220319080535_ok.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220319080535_ok.cs
+++20220320213321_photoSrc.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220320213321_photosrc.cs
+++20220320213321_photoSrc.Designer.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220320213321_photosrc.designer.cs
+++ProjectContextModelSnapshot.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\projectcontextmodelsnapshot.cs
+++Models
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\
+++Cart.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\cart.cs
+++Category.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\category.cs
+++ErrorViewModel.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\errorviewmodel.cs
+++Order.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\order.cs
+++Product.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\product.cs
+++User.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\models\user.cs
+++Views
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\
+++Carts
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\carts\
+++Categories
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\categories\
+++Home
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\home\
+++Orders
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\orders\
+++Products
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\
+++Create.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\create.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\carts\create.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\categories\create.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\orders\create.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\users\create.cshtml
+++Delete.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\delete.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\carts\delete.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\categories\delete.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\orders\delete.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\users\delete.cshtml
+++Details.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\details.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\carts\details.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\categories\details.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\orders\details.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\users\details.cshtml
+++DynamicMenu.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\dynamicmenu.cshtml
+++Edit.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\edit.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\carts\edit.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\categories\edit.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\orders\edit.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\users\edit.cshtml
+++Index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\products\index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\carts\index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\categories\index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\home\index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\orders\index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\users\index.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\index.cshtml
+++Shared
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\shared\
+++_Layout.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\shared\_layout.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\_layout.cshtml
+++_LoginPartial.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\shared\_validationscriptspartial.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\shared\error.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\error.cshtml
+++Users
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\users\
+++_ViewImports.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\_viewimports.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\_viewimports.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\_viewimports.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\_viewstart.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\appsettings.json
+++Program.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\program.cs
+++ScaffoldingReadMe.txt
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\scaffoldingreadme.txt
+++SQL Server Express LocalDB (Local) (ConnectionStrings:ProjectContextConnection)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1267
+++Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:analyzers
+++Frameworks
+i:{d043740d-d174-4279-9c28-f0db355db479}:frameworks
+++Packages
+i:{d043740d-d174-4279-9c28-f0db355db479}:packages
+++launchSettings.json
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\properties\launchsettings.json
+++serviceDependencies.json
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\properties\servicedependencies.json
+++site.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\css\site.css
+++site.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\js\site.js
+++bootstrap
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\
+++jquery
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery\
+++jquery-validation
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation-unobtrusive\
+++bootstrap.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\bootstrap.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++font-awesome.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\font-awesome.min.css
+++responsive.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\responsive.css
+++style.scss
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\style.scss
+++fontawesome-webfont.ttf
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\fonts\fontawesome-webfont.woff2
+++14ade224-e467-4a23-9b67-f6cec85f2805_f3.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\14ade224-e467-4a23-9b67-f6cec85f2805_f3.png
+++41693471-4462-4e37-8ff6-4040b1f3ca3a_FB_IMG_1490442710076.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\41693471-4462-4e37-8ff6-4040b1f3ca3a_fb_img_1490442710076.jpg
+++about-img.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\about-img.png
+++client1.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\client1.jpg
+++client2.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\client2.jpg
+++client4.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\client4.jpg
+++f1.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f1.png
+++f2.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f2.png
+++f3.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f3.png
+++f4.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f4.png
+++f5.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f5.png
+++f6.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f6.png
+++f7.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f7.png
+++f8.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f8.png
+++f9.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f9.png
+++f9c9b3a0-8fe4-4b87-b3cf-fa5f5f98d498_f2.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\f9c9b3a0-8fe4-4b87-b3cf-fa5f5f98d498_f2.png
+++favicon.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\favicon.png
+++fb1ab470-5120-424b-b6b7-7ac4efb09080_f2.png
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\fb1ab470-5120-424b-b6b7-7ac4efb09080_f2.png
+++hero-bg.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\hero-bg.jpg
+++o1.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\o1.jpg
+++o2.jpg
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\images\o2.jpg
+++bootstrap.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\js\bootstrap.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++custom.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\js\custom.js
+++jquery-3.4.1.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\js\jquery-3.4.1.min.js
+++Identity
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\
+++20220318174306_init.Designer.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220318174306_init.designer.cs
+++20220319080516_first.Designer.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220319080516_first.designer.cs
+++20220319080535_ok.Designer.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220319080535_ok.designer.cs
+++About.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\home\about.cshtml
+++Menu.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\home\menu.cshtml
+++Privacy.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\home\privacy.cshtml
+++_Layout.cshtml.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\appsettings.development.json
+++MessagePackAnalyzer
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\users\amr nabil\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\users\amr nabil\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\users\amr nabil\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\users\amr nabil\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d043740d-d174-4279-9c28-f0db355db479}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\microsoft.netcore.app
+++Microsoft.AspNet.Mvc (5.2.7)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1263
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1262
+++Microsoft.AspNetCore.Identity.UI (6.0.2)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1266
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1261
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1264
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1265
+++serviceDependencies.local.json
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\properties\servicedependencies.local.json
+++dist
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery\dist\
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery\license.txt
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++style.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\style.css
+++Data
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\data\
+++Pages
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\
+++jquery.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++style.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\template\css\style.css.map
+++ProjectContext.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\data\projectcontext.cs
+++Account
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\
+++bootstrap-grid.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++jquery.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++Manage
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\
+++_StatusMessage.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\_statusmessage.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\_statusmessage.cshtml
+++AccessDenied.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\accessdenied.cshtml
+++ConfirmEmail.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\confirmemail.cshtml
+++ConfirmEmailChange.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\confirmemailchange.cshtml
+++ExternalLogin.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\externallogin.cshtml
+++ForgotPassword.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\forgotpasswordconfirmation.cshtml
+++Lockout.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\lockout.cshtml
+++Login.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\login.cshtml
+++LoginWith2fa.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\loginwith2fa.cshtml
+++LoginWithRecoveryCode.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\loginwithrecoverycode.cshtml
+++Logout.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\logout.cshtml
+++Register.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\register.cshtml
+++RegisterConfirmation.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\registerconfirmation.cshtml
+++ResendEmailConfirmation.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\resendemailconfirmation.cshtml
+++ResetPassword.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\resetpasswordconfirmation.cshtml
+++Error.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\error.cshtml.cs
+++bootstrap.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\jquery\dist\jquery.min.map
+++_ManageNav.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\_managenav.cshtml
+++ChangePassword.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\changepassword.cshtml
+++DeletePersonalData.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\deletepersonaldata.cshtml
+++Disable2fa.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\disable2fa.cshtml
+++DownloadPersonalData.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\downloadpersonaldata.cshtml
+++Email.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\email.cshtml
+++EnableAuthenticator.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\enableauthenticator.cshtml
+++ExternalLogins.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\externallogins.cshtml
+++GenerateRecoveryCodes.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\generaterecoverycodes.cshtml
+++ManageNavPages.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\managenavpages.cs
+++PersonalData.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\personaldata.cshtml
+++ResetAuthenticator.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\resetauthenticator.cshtml
+++SetPassword.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\setpassword.cshtml
+++ShowRecoveryCodes.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\showrecoverycodes.cshtml
+++TwoFactorAuthentication.cshtml
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\twofactorauthentication.cshtml
+++AccessDenied.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\accessdenied.cshtml.cs
+++ConfirmEmail.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\confirmemail.cshtml.cs
+++ConfirmEmailChange.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\confirmemailchange.cshtml.cs
+++ExternalLogin.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\externallogin.cshtml.cs
+++ForgotPassword.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\forgotpassword.cshtml.cs
+++ForgotPasswordConfirmation.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\forgotpasswordconfirmation.cshtml.cs
+++Lockout.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\lockout.cshtml.cs
+++Login.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\login.cshtml.cs
+++LoginWith2fa.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\loginwith2fa.cshtml.cs
+++LoginWithRecoveryCode.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\loginwithrecoverycode.cshtml.cs
+++Logout.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\logout.cshtml.cs
+++Register.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\register.cshtml.cs
+++RegisterConfirmation.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\registerconfirmation.cshtml.cs
+++ResendEmailConfirmation.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\resendemailconfirmation.cshtml.cs
+++ResetPassword.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\resetpassword.cshtml.cs
+++ResetPasswordConfirmation.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\resetpasswordconfirmation.cshtml.cs
+++bootstrap.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++ChangePassword.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\changepassword.cshtml.cs
+++DeletePersonalData.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\deletepersonaldata.cshtml.cs
+++Disable2fa.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\disable2fa.cshtml.cs
+++DownloadPersonalData.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\downloadpersonaldata.cshtml.cs
+++Email.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\email.cshtml.cs
+++EnableAuthenticator.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\enableauthenticator.cshtml.cs
+++ExternalLogins.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\externallogins.cshtml.cs
+++GenerateRecoveryCodes.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\generaterecoverycodes.cshtml.cs
+++Index.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\index.cshtml.cs
+++PersonalData.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\personaldata.cshtml.cs
+++ResetAuthenticator.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\resetauthenticator.cshtml.cs
+++SetPassword.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\setpassword.cshtml.cs
+++ShowRecoveryCodes.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\showrecoverycodes.cshtml.cs
+++TwoFactorAuthentication.cshtml.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\areas\identity\pages\account\manage\twofactorauthentication.cshtml.cs
+++bootstrap.rtl.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++20220325225745_newSchema.cs
+++20220325225745_newSchema.Designer.cs
+++20220325225839_newSchema.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220325225839_newschema.cs
+++20220325225839_newSchema.Designer.cs
+i:{d043740d-d174-4279-9c28-f0db355db479}:d:\things\iti materials - pc\mvc\mvc project\attempt project\project with template - imp\project\migrations\20220325225839_newschema.designer.cs
+++Account.cshtml
+++HomeController.cs~RF224387b8.TMP
+++Menu.cshtml~RF2244cbe0.TMP
+++Microsoft.AspNetCore.Authentication.Google (6.0.3)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>1282
+++Program.cs~RF226dd222.TMP
+++Microsoft.AspNetCore.Authentication.Facebook (6.0.3)
+i:{d043740d-d174-4279-9c28-f0db355db479}:>2247
+++Program.cs~RF22788583.TMP

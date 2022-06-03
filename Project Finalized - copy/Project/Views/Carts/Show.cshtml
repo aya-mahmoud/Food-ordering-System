@@ -1,0 +1,84 @@
+﻿@using Newtonsoft.Json
+@model Project.Models.Cart
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Details";
+    var totalPrice = 0;
+}
+
+<h1>Cart Details</h1>
+
+<table class="table p-5" cellpadding=5>
+    <thead>
+        <tr>
+            <th>
+                Item
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+                Price
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            @if (Model != null)
+            {
+                @foreach (var item in Model.Products)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            <img width=100 height=100 src="@Url.Content($"~/template/images/{item.PhotoSrc}")">
+                        </td>
+                        <td>
+                            $ @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            <a asp-controller="Carts" asp-action="RemoveFromCart" asp-route-id="@item.ID">Remove</a>
+                        </td>
+                    </tr>
+                    Model.TotalPrice += @item.Price;
+
+                }
+
+            }
+            <tr>
+            <td>
+                Total Price: $ @Model.TotalPrice
+            </td>
+</tr>
+    </tbody>
+</table>
+    
+@using Microsoft.Extensions.Options
+@inject IOptions<StripeSettings> Stripe
+
+@*<form action="/Home/Charge" method="POST">
+*@  
+<form action="/Orders/FinalizeOrder" method="POST">
+<article>
+@*    <label>Total Price: $ @totalPrice</label>
+*@  </article>
+  <script src="//checkout.stripe.com/v2/checkout.js"
+          class="stripe-button"
+          data-key="pk_test_51KfxKmBfomHHapStpctm6cOPvs770q0tGo4f04GVg3Uqy7gkxwQauWR6alQrIT3LhNrFlajfOF34yyrKbPpXUZhk002hN0O74p"
+  
+          data-locale="auto"
+          data-description="Checkout"
+          data-amount="@totalPrice">
+  </script>
+</form>
+<form action="/Orders/FinalizeOrder" method="POST">
+
+<button type="submit" class="stripe-button-el" style="visibility: visible;"><span style="display: block; min-height: 30px;">Cash On Delivery</span></button>
+</form>
+
+   <div><a href="/Home/Menu">Order More</a></div> 
+
+

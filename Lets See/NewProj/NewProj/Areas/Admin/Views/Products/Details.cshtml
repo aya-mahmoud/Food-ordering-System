@@ -1,0 +1,46 @@
+﻿@model NewProj.Classes.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    
+}
+
+<h1 style="color:mediumaquamarine">Product Details</h1>
+<div class="container bootdey">
+<div class="col-md-12">
+<section class="panel">
+      <div class="panel-body">
+          <div class="col-md-6">
+              <div class="pro-img-details">
+                  <div class="img-thumbnail">
+                        <img src="~/template/images/@Model.PhotoSrc" asp-append-version="true" width="250px" height="250px" class="card-img-top" alt="...">
+                  </div>
+               </div>
+             
+          </div>
+          <div class="col-md-6">
+              <h1 style="font-weight:bold">    
+              @Html.DisplayFor(model => model.Name)
+              </h1>
+              <p>
+                 @Html.DisplayFor(model => model.Description)
+              </p>
+              <div class="product_meta">
+                  <span class="posted_in"> <strong>Category:</strong> 
+                      @*<a rel="tag" href="#">*@
+                          @Html.DisplayFor(model => model.CategoryNavigation.Name)
+                          @*</a>*@
+                          .</span>
+              </div>
+              <div class="m-bot15"> <strong>Price : </strong>  <span class="pro-price fas fa-solid fa-circle-dollar"> @Html.DisplayFor(model => model.Price)<span style='color: #e6970f'> $</span></span></div>
+          </div>
+      </div>
+  </section>
+  </div>
+  </div>
+   
+<div class="mt-5">
+    <a asp-action="Index" class="btn btn-success">Back to List</a>
+    <a asp-action="Edit"  class="ml-5 btn btn-warning" asp-route-id="@Model?.ID">Edit</a> 
+</div>

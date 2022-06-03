@@ -1,0 +1,87 @@
+﻿@model IEnumerable<NewProj.Classes.Product>
+
+@{
+    ViewData["Title"] = "Index";
+     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Products</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-primary">Create New</a>
+</p>
+<div class="card shadow mb-4">
+<div class="card-body">
+<div class="table-responsive">
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th  style ="word-break: break-all;">
+                @Html.DisplayNameFor(model => model.Description)
+            </th> 
+            <th  style ="width:9%">
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+         @*   <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.PhotoSrc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order)
+            </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+                   <span class=" fas fa-solid fa-circle-dollar" 
+                    style='color: #e6970f'> $</span>
+            </td>
+        @*    <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.PhotoSrc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryNavigation.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.ID)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-warning">Edit</a>    
+            </td>
+            <td>
+                  <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-primary">Details</a> 
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
